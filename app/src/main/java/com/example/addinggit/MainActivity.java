@@ -13,5 +13,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Toast.makeText(this, "try change", Toast.LENGTH_SHORT).show();
         Toast.makeText(this, "2nd", Toast.LENGTH_SHORT).show();
+
+        String h = "heba";
     }
 }
